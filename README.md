@@ -7,4 +7,5 @@
  * bytedance.com
  
  boss和bytedance主要爬取招聘信息，jd.com主要爬取商品评论。
+ boss参考了博客![BOSS直聘招聘信息爬取](https://blog.csdn.net/d1240673769/article/details/91409878)
  
